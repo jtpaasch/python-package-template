@@ -15,7 +15,7 @@ Then make a virtual environment and install ``tox``::
 
     cd ~/mytool
     pyvenv venv
-    . bin/venv/activate
+    . venv/bin/activate
     pip install --upgrade pip
     pip install tox
 
